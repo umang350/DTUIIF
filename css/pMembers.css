@@ -1,0 +1,18 @@
+.left {
+	text-align: left;
+}
+
+ol {
+	text-align: left;
+}
+
+ol .redundant {
+	list-style-type: none;
+	color: rgba(243, 123, 22, 0.0);
+}
+
+.size {
+	max-height: 290px;
+	max-width: 290px;
+	border-radius: 50%;
+}
